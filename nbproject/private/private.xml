@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ricar/OneDrive/Documentos/NetBeansProjects/Calories/src/java/br/com/umbernardo/calories/dao/UsuarioDAO.java</file>
+            <file>file:/C:/Users/ricar/OneDrive/Documentos/NetBeansProjects/Calories/src/java/br/com/umbernardo/calories/model/Diario.java</file>
+            <file>file:/C:/Users/ricar/OneDrive/Documentos/NetBeansProjects/Calories/web/WEB-INF/views/usuarios/dashboard.jsp</file>
+            <file>file:/C:/Users/ricar/OneDrive/Documentos/NetBeansProjects/Calories/src/java/br/com/umbernardo/calories/interceptor/MyInterceptor.java</file>
+            <file>file:/C:/Users/ricar/OneDrive/Documentos/NetBeansProjects/Calories/src/java/br/com/umbernardo/calories/model/Usuario.java</file>
+            <file>file:/C:/Users/ricar/OneDrive/Documentos/NetBeansProjects/Calories/src/java/br/com/umbernardo/calories/dao/DiarioDAO.java</file>
+            <file>file:/C:/Users/ricar/OneDrive/Documentos/NetBeansProjects/Calories/web/WEB-INF/views/home.jsp</file>
+            <file>file:/C:/Users/ricar/OneDrive/Documentos/NetBeansProjects/Calories/web/WEB-INF/views/usuarios/cadastrarUsuario.jsp</file>
+            <file>file:/C:/Users/ricar/OneDrive/Documentos/NetBeansProjects/Calories/web/WEB-INF/views/diario/listar.jsp</file>
+            <file>file:/C:/Users/ricar/OneDrive/Documentos/NetBeansProjects/Calories/src/java/br/com/umbernardo/calories/controller/UsuarioController.java</file>
+            <file>file:/C:/Users/ricar/OneDrive/Documentos/NetBeansProjects/Calories/src/java/br/com/umbernardo/calories/controller/HomeController.java</file>
+            <file>file:/C:/Users/ricar/OneDrive/Documentos/NetBeansProjects/Calories/src/java/br/com/umbernardo/calories/controller/DiarioController.java</file>
+            <file>file:/C:/Users/ricar/OneDrive/Documentos/NetBeansProjects/Calories/web/WEB-INF/views/diario/sucesso.jsp</file>
+        </group>
+    </open-files>
+</project-private>
